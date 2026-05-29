@@ -2,7 +2,7 @@
 name: "[Nazwa-Marki]"
 about: Strona marki do utworzenia
 title: ''
-labels: ''
+labels: MARKA, to-do
 assignees: ''
 
 ---
